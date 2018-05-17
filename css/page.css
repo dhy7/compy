@@ -20,13 +20,14 @@ li {
 
 li a {
 	display: block;
-	padding: 14px 60px;
+	padding: 14px 63.5px;
 	text-decoration: none;
 }
 
- .mails {
+.mails {
 	padding-left: 200px;
 	background-image: url(../img/图层-55.png);
+
 }
 
 a:link,
@@ -59,23 +60,102 @@ a:active {
 	position: absolute;
 	margin-bottom: 700px
 }
-.qjy{
-	padding-left: 450px;
-	position: absolute;
-	top:420px;
-	color: beige;
+.dixia{top:250px;
+       position:relative;
+       width: 100%;
 }
-.kno{padding-left: 750px;
-	position: absolute;
-	top:420px;
-	color: beige;}
-	.pho{
-		padding-left: 1100px;
-	position: absolute;
-	top:420px;
-	color: beige;
-	}
+.dimg {
+				position:absolute;
+				top:100px;
+
+			}
+
+			.simg {
+				padding-left:150px;
+				position:absolute;
+				top:0px;
+			}
+
+			.t1,.t2, .t3 {
+				width:100px;
+				position:absolute;
+				top:80px;
+			}
+
+			.t1 {
+				left:400px;
+			}
+
+			.t2 {
+	            left:750px
+			}
+
+			.t3 {
+                left:1100px;
+			}
 
 
+.dazi1,.dazi2,.dazi3 {
+				color: #F3F3F3;
+				position: absolute;
+				top: 180px;
+			}
+			.dazi1 {
+				left: 418px;
+			}
+
+			.dazi2 {
+				left: 770px;
+			}
+
+			.dazi3 {
+				left: 1120px;
+			}
+
+			.xz1,.xz2,.xz3 {
+				color: #CCCCCC;
+				font-size: 14px;
+				position: absolute;
+				top: 220px;
+				text-align: center;
+			}
+			.xz1 {
+			    left:330px;
+			}
+
+			.xz2 {
+			    left:690px;
+			}
+
+			.xz3 {
+				left:1050px;
+			}
 
 
+			.more1,.more2,.more3 {
+				font-size: 14px;
+				position: absolute;
+				top: 280px;
+				text-align: center;
+			}
+
+			.more1 {
+			    left: 420px;
+			}
+			.more2 {
+				left: 770px;
+			}
+			.more3 {
+				left: 1120px;
+			}
+
+			.more1 a {
+				color: #353864;
+			}
+
+			.more2 a {
+				color: #353864;
+			}
+			.more3 a {
+				color: #353864;
+			}
